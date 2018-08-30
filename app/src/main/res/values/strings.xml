@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">JSON</string>
+    <string name="sistemas_vox_titulo">Sistemas VOX</string>
+    <string name="txtBotao">Verificar Post</string>
+</resources>
